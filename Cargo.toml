@@ -5,6 +5,6 @@ edition = "2021"
 author = "Sam NB"
 description = "Print some lovely ASCII art of a teabag"
 documentation = "README.md"
-license = "UNLICENSED"
+license = "MIT"
 
 [dependencies]
