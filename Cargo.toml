@@ -1,0 +1,10 @@
+[package]
+name = "teabag"
+version = "0.1.0"
+edition = "2021"
+author = "Sam NB"
+description = "Print some lovely ASCII art of a teabag"
+documentation = "README.md"
+license = "UNLICENSED"
+
+[dependencies]
