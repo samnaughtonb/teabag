@@ -4,7 +4,9 @@ version = "0.1.0"
 edition = "2021"
 author = "Sam NB"
 description = "Print some lovely ASCII art of a teabag"
-documentation = "README.md"
+homepage = "http://github.com/samnaughtonb/teabag"
+repository = "http://github.com/samnaughtonb/teabag"
+readme = "README.md"
 license = "MIT"
 
 [dependencies]
